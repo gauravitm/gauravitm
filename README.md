@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .NET Core, Canandra
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  gaurav_mishra18@hotmail.comn
---About
+- 👀 --About
 A composed individual trained to be an organized and efficient Assistant Consultant as a result of more 
 than 3 years working for a CMMI LEVEL 3 organization. Highly educated and enthusiastic with skills in 
 Computer’s programming and Web development
